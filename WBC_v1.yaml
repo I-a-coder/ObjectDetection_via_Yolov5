@@ -1,0 +1,10 @@
+# WBC_v1.yaml (EDITED)
+train: C:\Users\SS\Desktop\WBC_Data\images\train
+val: C:\Users\SS\Desktop\WBC_Data\images\val
+test: C:\Users\SS\Desktop\WBC_Data\images\test
+
+# number of classes
+nc: 14
+
+# class names (rest of the file remains the same)
+names: ["None","Myeloblast","Lymphoblast", "Neutrophil","Atypical lymphocyte","Promonocyte","Monoblast","Lymphocyte","Myelocyte","Abnormal promyelocyte", "Monocyte","Metamyelocyte","Eosinophil","Basophil"]
